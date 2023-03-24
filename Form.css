@@ -1,0 +1,30 @@
+body{
+    background-color:lightpink;
+}
+h1{
+    color:purple;
+}
+form{
+    color: red;
+    font-weight: bold;
+    background-color:pink;
+    border-color: blue;
+    width: fit-content;
+}
+.input{
+    width: 200px;
+}
+legend{
+    font-size: 20px;
+}
+select{
+    width: 200px;
+    height: 25px;
+}
+table{
+    width: 300px;
+}
+img{
+    height:200px;
+    width:200px;
+}
